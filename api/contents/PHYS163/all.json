@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-02-08T18:46:40.317521Z",
+      "format": null,
+      "last_modified": "2022-02-08T18:45:31.154300Z",
+      "mimetype": null,
+      "name": "test",
+      "path": "PHYS163/test",
+      "size": 1,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-02-08T18:46:40.317521Z",
+  "format": "json",
+  "last_modified": "2022-02-08T18:46:40.317521Z",
+  "mimetype": null,
+  "name": "PHYS163",
+  "path": "PHYS163",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
