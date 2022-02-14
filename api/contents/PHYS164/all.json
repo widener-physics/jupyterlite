@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-14T17:22:37.345134Z",
+      "created": "2022-02-14T17:22:22.715365Z",
       "format": null,
-      "last_modified": "2022-02-14T17:21:24.743042Z",
+      "last_modified": "2022-02-14T17:21:14.095971Z",
+      "mimetype": null,
+      "name": "test",
+      "path": "PHYS164/test",
+      "size": 2,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-02-14T17:22:22.707366Z",
+      "format": null,
+      "last_modified": "2022-02-14T17:21:14.095971Z",
       "mimetype": "application/pdf",
       "name": "rigol_manual.pdf",
       "path": "PHYS164/rigol_manual.pdf",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-14T17:22:37.341134Z",
+  "created": "2022-02-14T17:22:22.715365Z",
   "format": "json",
-  "last_modified": "2022-02-14T17:22:37.341134Z",
+  "last_modified": "2022-02-14T17:22:22.715365Z",
   "mimetype": null,
   "name": "PHYS164",
   "path": "PHYS164",

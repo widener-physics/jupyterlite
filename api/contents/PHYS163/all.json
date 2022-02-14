@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-14T17:22:37.341134Z",
+      "created": "2022-02-14T17:22:22.703366Z",
       "format": null,
-      "last_modified": "2022-02-14T17:21:24.727040Z",
+      "last_modified": "2022-02-14T17:21:14.079971Z",
       "mimetype": null,
       "name": "03_springs.ipynb",
       "path": "PHYS163/03_springs.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-14T17:22:37.341134Z",
+      "created": "2022-02-14T17:22:22.703366Z",
       "format": null,
-      "last_modified": "2022-02-14T17:21:24.727040Z",
+      "last_modified": "2022-02-14T17:21:14.079971Z",
       "mimetype": null,
       "name": "02_pendulum.ipynb",
       "path": "PHYS163/02_pendulum.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-14T17:22:37.341134Z",
+      "created": "2022-02-14T17:22:22.703366Z",
       "format": null,
-      "last_modified": "2022-02-14T17:21:24.727040Z",
+      "last_modified": "2022-02-14T17:21:14.079971Z",
       "mimetype": null,
       "name": "01_intro.ipynb",
       "path": "PHYS163/01_intro.ipynb",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-14T17:22:37.341134Z",
+  "created": "2022-02-14T17:22:22.703366Z",
   "format": "json",
-  "last_modified": "2022-02-14T17:22:37.341134Z",
+  "last_modified": "2022-02-14T17:22:22.703366Z",
   "mimetype": null,
   "name": "PHYS163",
   "path": "PHYS163",
