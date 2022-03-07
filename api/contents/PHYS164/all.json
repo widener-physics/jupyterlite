@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.493945Z",
+      "created": "2022-03-07T16:50:38.927273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:49:49.649229Z",
+      "last_modified": "2022-03-07T16:49:30.826761Z",
       "mimetype": null,
       "name": "02_circuits.ipynb",
       "path": "PHYS164/02_circuits.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.493945Z",
+      "created": "2022-03-07T16:50:38.927273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:58.493945Z",
+      "last_modified": "2022-03-07T16:50:38.927273Z",
       "mimetype": null,
       "name": "images",
       "path": "PHYS164/images",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.493945Z",
+      "created": "2022-03-07T16:50:38.931273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:49:49.661229Z",
+      "last_modified": "2022-03-07T16:49:30.838762Z",
       "mimetype": "application/pdf",
       "name": "rigol_manual.pdf",
       "path": "PHYS164/rigol_manual.pdf",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.493945Z",
+      "created": "2022-03-07T16:50:38.927273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:49:49.649229Z",
+      "last_modified": "2022-03-07T16:49:30.826761Z",
       "mimetype": null,
       "name": "03_oscilloscopes.ipynb",
       "path": "PHYS164/03_oscilloscopes.ipynb",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.493945Z",
+      "created": "2022-03-07T16:50:38.927273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:49:49.649229Z",
+      "last_modified": "2022-03-07T16:49:30.826761Z",
       "mimetype": null,
       "name": "01_fields.ipynb",
       "path": "PHYS164/01_fields.ipynb",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-07T16:50:58.493945Z",
+  "created": "2022-03-07T16:50:38.927273Z",
   "format": "json",
-  "last_modified": "2022-03-07T16:50:58.493945Z",
+  "last_modified": "2022-03-07T16:50:38.927273Z",
   "mimetype": null,
   "name": "PHYS164",
   "path": "PHYS164",

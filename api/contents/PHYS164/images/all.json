@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.493945Z",
+      "created": "2022-03-07T16:50:38.927273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:49:49.649229Z",
+      "last_modified": "2022-03-07T16:49:30.826761Z",
+      "mimetype": null,
+      "name": "testfile",
+      "path": "PHYS164/images/testfile",
+      "size": 4,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-07T16:50:38.927273Z",
+      "format": null,
+      "last_modified": "2022-03-07T16:49:30.826761Z",
       "mimetype": "image/png",
       "name": "rlc_circuit.png",
       "path": "PHYS164/images/rlc_circuit.png",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-07T16:50:58.493945Z",
+  "created": "2022-03-07T16:50:38.927273Z",
   "format": "json",
-  "last_modified": "2022-03-07T16:50:58.493945Z",
+  "last_modified": "2022-03-07T16:50:38.927273Z",
   "mimetype": null,
   "name": "images",
   "path": "PHYS164/images",

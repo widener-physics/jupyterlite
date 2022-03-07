@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.489945Z",
+      "created": "2022-03-07T16:50:38.927273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:58.489945Z",
+      "last_modified": "2022-03-07T16:50:38.927273Z",
       "mimetype": null,
       "name": "PHYS163",
       "path": "PHYS163",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.493945Z",
+      "created": "2022-03-07T16:50:38.927273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:58.493945Z",
+      "last_modified": "2022-03-07T16:50:38.927273Z",
       "mimetype": null,
       "name": "PHYS164",
       "path": "PHYS164",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:50:58.501945Z",
+      "created": "2022-03-07T16:50:38.939273Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:56.853928Z",
+      "last_modified": "2022-03-07T16:50:37.639263Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-07T16:50:58.501945Z",
+  "created": "2022-03-07T16:50:38.939273Z",
   "format": "json",
-  "last_modified": "2022-03-07T16:50:58.501945Z",
+  "last_modified": "2022-03-07T16:50:38.939273Z",
   "mimetype": null,
   "name": "",
   "path": "",
