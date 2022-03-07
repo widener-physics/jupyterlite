@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-07T16:51:13.547876Z",
+      "created": "2022-03-07T18:57:43.689281Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:03.876081Z",
+      "last_modified": "2022-03-07T18:56:22.056416Z",
       "mimetype": "image/png",
       "name": "rlc_circuit.png",
       "path": "PHYS164/images/rlc_circuit.png",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-07T16:51:13.547876Z",
+  "created": "2022-03-07T18:57:43.689281Z",
   "format": "json",
-  "last_modified": "2022-03-07T16:51:13.547876Z",
+  "last_modified": "2022-03-07T18:57:43.689281Z",
   "mimetype": null,
   "name": "images",
   "path": "PHYS164/images",

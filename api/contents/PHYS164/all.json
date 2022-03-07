@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-07T16:51:13.547876Z",
+      "created": "2022-03-07T18:57:43.685282Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:03.876081Z",
+      "last_modified": "2022-03-07T18:56:22.056416Z",
       "mimetype": null,
       "name": "02_circuits.ipynb",
       "path": "PHYS164/02_circuits.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:51:13.547876Z",
+      "created": "2022-03-07T18:57:43.689281Z",
       "format": null,
-      "last_modified": "2022-03-07T16:51:13.547876Z",
+      "last_modified": "2022-03-07T18:57:43.689281Z",
       "mimetype": null,
       "name": "images",
       "path": "PHYS164/images",
@@ -26,21 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:51:13.547876Z",
+      "created": "2022-03-07T18:57:43.689281Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:03.876081Z",
-      "mimetype": null,
-      "name": "04_rlc_circuits.ipynb",
-      "path": "PHYS164/04_rlc_circuits.ipynb",
-      "size": 4955,
-      "type": "notebook",
-      "writable": true
-    },
-    {
-      "content": null,
-      "created": "2022-03-07T16:51:13.551876Z",
-      "format": null,
-      "last_modified": "2022-03-07T16:50:03.888082Z",
+      "last_modified": "2022-03-07T18:56:22.068416Z",
       "mimetype": "application/pdf",
       "name": "rigol_manual.pdf",
       "path": "PHYS164/rigol_manual.pdf",
@@ -50,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:51:13.547876Z",
+      "created": "2022-03-07T18:57:43.685282Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:03.876081Z",
+      "last_modified": "2022-03-07T18:56:22.056416Z",
       "mimetype": null,
       "name": "03_oscilloscopes.ipynb",
       "path": "PHYS164/03_oscilloscopes.ipynb",
@@ -62,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-07T16:51:13.547876Z",
+      "created": "2022-03-07T18:57:43.685282Z",
       "format": null,
-      "last_modified": "2022-03-07T16:50:03.876081Z",
+      "last_modified": "2022-03-07T18:56:22.056416Z",
       "mimetype": null,
       "name": "01_fields.ipynb",
       "path": "PHYS164/01_fields.ipynb",
@@ -73,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-07T16:51:13.547876Z",
+  "created": "2022-03-07T18:57:43.689281Z",
   "format": "json",
-  "last_modified": "2022-03-07T16:51:13.547876Z",
+  "last_modified": "2022-03-07T18:57:43.689281Z",
   "mimetype": null,
   "name": "PHYS164",
   "path": "PHYS164",
