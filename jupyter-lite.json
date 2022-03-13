@@ -75,7 +75,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.5ffed1c4b9b9ce1f7b00.js",
+        "load": "static/remoteEntry.d3f93277b65928cb96a9.js",
         "name": "ipycanvas"
       },
       {
