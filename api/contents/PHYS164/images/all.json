@@ -2,20 +2,32 @@
   "content": [
     {
       "content": null,
-      "created": "2022-04-08T14:57:01.505238Z",
+      "created": "2022-04-18T18:05:19.364106Z",
       "format": null,
-      "last_modified": "2022-04-08T14:55:53.790102Z",
+      "last_modified": "2022-04-18T18:04:09.367260Z",
       "mimetype": "image/png",
       "name": "rlc_circuit.png",
       "path": "PHYS164/images/rlc_circuit.png",
       "size": 3560,
       "type": "file",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-18T18:05:19.364106Z",
+      "format": null,
+      "last_modified": "2022-04-18T18:04:09.367260Z",
+      "mimetype": "image/jpeg",
+      "name": "bending_angle.jpg",
+      "path": "PHYS164/images/bending_angle.jpg",
+      "size": 27231,
+      "type": "file",
+      "writable": true
     }
   ],
-  "created": "2022-04-08T14:57:01.505238Z",
+  "created": "2022-04-18T18:05:19.364106Z",
   "format": "json",
-  "last_modified": "2022-04-08T14:57:01.505238Z",
+  "last_modified": "2022-04-18T18:05:19.364106Z",
   "mimetype": null,
   "name": "images",
   "path": "PHYS164/images",
